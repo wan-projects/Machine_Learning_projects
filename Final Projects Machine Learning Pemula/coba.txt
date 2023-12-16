@@ -1,2 +1,0 @@
-Image Classification Rock Paper Scissor Using CNN - Validation Split
-Image Classification Rock Paper Scissor Using CNN - Split Folder 
